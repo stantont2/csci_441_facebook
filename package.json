@@ -1,0 +1,15 @@
+{
+  "name": "reddit",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.7.6",
+    "jquery": "^3.4.1",
+    "meteor-node-stubs": "^1.0.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
